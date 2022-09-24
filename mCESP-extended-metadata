@@ -1,0 +1,37 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/6LeBlanc6/1/blob/fd40f741c78a271e5a2cb34e0c881b8543d50714/MEDA-compressed-64x64.png?raw=true",
+        "url_png_logo": "https://raw.githubusercontent.com/6LeBlanc6/1/main/MEDA.png?raw=true",
+        "location": "Varna | Bulgaria | Europe",
+        "social": {
+            "twitter_handle": "@PoolAndromeda",
+            "telegram_handle": "https://t.me/Andr0medaWay",
+            "facebook_handle": "Bulgarian Cardano Community (group)",
+            "youtube_handle": "https://youtube.com/channel/UCLGiv1C806vMQMbiPrdNL7A",
+            "twitch_handle": "",
+            "discord_handle": "https://discord.gg/FDfWGuVXeH",
+            "github_handle": "6LeBlanc6"
+        },
+        "company": {
+            "name": "Andromeda Way",
+            "addr": "24 Makedonia str.",
+            "city": "Varna | Bulgaria | Europe",
+            "country": "BG",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single pool operater from Varna, Black Sea cost. Trying to bring the cardano World to Bulgaria. I´m happy to be part of the Cardano network and to support the community. I believe that every person have to leave this world a better place than he/she had found it!",
+            "server": "Bare metal server for Cardano staking services.Our equipment currently consists of 1 Block Producer and 1 Relay Nodes. We can guarantee an excellent internet connection.",
+            "company": "Andromeda Way"
+        },
+    "my-pool-ids": {
+        "0": "1aee47982a812687e08d09e8e608be8c05b02a703f281addb96d9df2",
+        "1": ""
+      },
+         "telegram-admin-handle": {
+        "0": "https://t.me/LeBlanc6"
+    }
+    }
+   
+}
